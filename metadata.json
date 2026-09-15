@@ -1,0 +1,6 @@
+{
+  "name": "Hexavora AI Tracker",
+  "description": "Live AI models, tools, and releases—tracked with clarity, verified pricing, and open-source transparency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
